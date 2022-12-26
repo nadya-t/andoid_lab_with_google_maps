@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab_with_google_maps</string>
+    <string name="title_activity_maps">Корпуса НИУ ВШЭ на карте НН</string>
+</resources>
